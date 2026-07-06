@@ -8,15 +8,15 @@ number:
 date:
 consensus: true
 v: 3
-area: ART
-workgroup: DIEM
+area: "Applications and Real-Time"
+workgroup: "Digital Emblems"
 keyword:
  - DIEM architecture
 venue:
-  group: DIEM
-  type: Working Group
-  mail: diem@ietf.org
-  github: https://github.com/tojens-ietf/draft-tojens-diem-arch-visual-aid
+  group: "Digital Emblems"
+  type: "Working Group"
+  mail: "diem@ietf.org"
+  github: "tojens-ietf/draft-tojens-diem-arch-visual-aid"
 
 author:
  -
@@ -160,7 +160,7 @@ MUST simply declare that neither case applies.
 
 The security considerations of Digital Emblem standards will be
 dependent on the way they choose to implement the elements defined
-in this document. However, this document uniquely introduces 
+in this document. However, this document uniquely introduces
 
 
 # IANA Considerations
